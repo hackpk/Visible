@@ -15,6 +15,7 @@ class RootApp extends StatefulWidget {
 
 class _RootAppState extends State<RootApp> {
   int pageCount = 0;
+  int vistaara = 0;
   Color appColor = Colors.white70;
 
   @override
